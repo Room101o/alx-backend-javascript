@@ -4,4 +4,3 @@ export default function divideFunction(numerator, denominator) {
   } else {
     return numerator / denominator;
   }
-sh: 1: q: not found
